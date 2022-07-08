@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import Head from "next/head";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
@@ -99,7 +100,7 @@ export default function Home({ dataWeb }) {
             </div>
             <div className="w-full self-end px-4 lg:w-1/2">
               <div className="relative mt-10 lg:mt-9 lg:right-0">
-                <img
+                <Image
                   className="relative z-10 mx-auto max-w-full"
                   src="dist/img/dinny.png"
                   alt="dinny"
@@ -215,7 +216,7 @@ export default function Home({ dataWeb }) {
           <div className="w-full px-4 flex flex-wrap justify-center xl:10/12 xl:mx-auto">
             <div className="mb-12 p-4 md:w-1/2">
               <div className="rounded-md shadow-md overflow-hidden">
-                <img
+                <Image
                   src="dist/img/porto/1.jpg"
                   alt="Landing Page"
                   width="w-full"
@@ -232,7 +233,7 @@ export default function Home({ dataWeb }) {
             </div>
             <div className="mb-12 p-4 md:w-1/2">
               <div className="rounded-md shadow-md overflow-hidden">
-                <img
+                <Image
                   src="dist/img/porto/2.png"
                   alt="Landing Page"
                   width="w-full"
@@ -249,7 +250,7 @@ export default function Home({ dataWeb }) {
             </div>
             <div className="mb-12 p-4 md:w-1/2">
               <div className="rounded-md shadow-md overflow-hidden">
-                <img
+                <Image
                   src="dist/img/porto/3.png"
                   alt="Landing Page"
                   width="w-full"
@@ -266,7 +267,7 @@ export default function Home({ dataWeb }) {
             </div>
             <div className="mb-12 p-4 md:w-1/2">
               <div className="rounded-md shadow-md overflow-hidden">
-                <img
+                <Image
                   src="dist/img/porto/4.png"
                   alt="Landing Page"
                   width="w-full"
@@ -304,7 +305,7 @@ export default function Home({ dataWeb }) {
           <div className="flex flex-wrap">
             <div className="w-full px-4 lg:w-1/2 xl:w-1/3">
               <div className="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
-                <img
+                <Image
                   src="https://source.unsplash.com/360x200?design"
                   alt="Desain"
                   className="w-full"
@@ -334,7 +335,7 @@ export default function Home({ dataWeb }) {
             </div>
             <div className="w-full px-4 lg:w-1/2 xl:w-1/3">
               <div className="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
-                <img
+                <Image
                   src="https://source.unsplash.com/360x200?design"
                   alt="Desain"
                   className="w-full"
