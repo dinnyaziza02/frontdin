@@ -1,0 +1,178 @@
+{
+  "navbar": {
+    "title": "Dinny Aziza",
+    "list": [
+      {
+        "name": "Beranda",
+        "href": "#Beranda"
+      },
+      {
+        "name": "About",
+        "href": "#About"
+      },
+      {
+        "name": "Portofolio",
+        "href": "#Portofolio"
+      },
+      {
+        "name": "Blog",
+        "href": "#Blog"
+      }
+    ]
+  },
+  "header": {
+    "heading": "Dinny Aziza",
+    "subHeading": "Mahasiswa",
+    "subHeading2": "Website Portofolio ",
+    "Button": {
+      "name": "I am",
+      "color": "bg-primary"
+    },
+    "Image": {
+      "alt": "Dinny ",
+      "url": "dist/img/dinny.png"
+    }
+  },
+  "about": {
+    "kiri": {
+      "sectionTitle": "About Me",
+      "textHead": "Take your own design",
+      "paragraf": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.Aliquid, saepe consequuntur vel tenetur expedita liberoperspiciatis!"
+    },
+    "kanan": {
+      "sectionTitle": "null",
+      "textHead": "Follow Me",
+      "paragraf": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Distinctio provident magni facilis consequuntur, modi nesciuntmaiores!",
+      "icon": [
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/channel/UCC-RHf_BJspVPet_1snKzyw"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/itsme_dinz"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/dinnyaziza02"
+        }
+      ]
+    }
+  },
+  "portofolio": {
+    "sectionTitle": "Portofolio",
+    "textHead": "Project Terbaru",
+    "paragraf": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasquia magni eius aperiam excepturi adipisci, quidem quasideserunt cumque ab tempore aspernatur similique ducimus?",
+    "content": [
+      {
+        "image": {
+          "alt": "Landing Page",
+          "src": "dist/img/porto/1.jpg",
+          "title": "Desain Landing Page",
+          "paragraf": "lorem"
+        }
+      },
+      {
+        "image": {
+          "alt": "Landing Page",
+          "src": "dist/img/porto/2.jpg",
+          "title": "Desain Landing Page",
+          "paragraf": "lorem"
+        }
+      },
+      {
+        "image": {
+          "alt": "Landing Page",
+          "src": "dist/img/porto/3.jpg",
+          "title": "Desain Landing Page",
+          "paragraf": "lorem"
+        }
+      },
+      {
+        "image": {
+          "alt": "Landing Page",
+          "src": "dist/img/porto/4.jpg",
+          "title": "Desain Landing Page",
+          "paragraf": "lorem"
+        }
+      }
+    ]
+  },
+  "blog": {
+    "sectionTitle": "Blog",
+    "textHead": "Tulisan Terkini",
+    "paragraf": "Kumpulan Blog desain ",
+    "content": [
+      {
+        "image": {
+          "alt": "Desain aestetik sekali",
+          "src": "https://source.unsplash.com/360x200?design",
+          "title": "Desain Landing Page",
+          "paragraf": "lorem"
+        }
+      },
+      {
+        "image": {
+          "alt": "Landing Page",
+          "src": "https://source.unsplash.com/360x200?design",
+          "title": "Desain Landing Page",
+          "paragraf": "lorem"
+        }
+      },
+      {
+        "image": {
+          "alt": "Fitur terbaru figma",
+          "src": "https://source.unsplash.com/360x200?design",
+          "title": "Desain Landing Page",
+          "paragraf": "lorem"
+        }
+      }
+    ]
+  },
+  "Footer": {
+    "kiri": {
+      "title": "Dinny Aziza",
+      "paragraf": "Hubungi Saya",
+      "email": "dinnyaziza02@gmail.com"
+      
+    },
+    "tengah": {
+      "title": "Kategori Tulisan",
+      "link": [
+        {
+          "name": "UI/UX",
+          "url": "#"
+        },
+        {
+          "name": "Programing",
+          "url": "#"
+        },
+        {
+          "name": "Ilustrasi",
+          "url": "#"
+        }
+      ]
+    },
+    "kanan": {
+      "title": "Tautan",
+      "link": [
+        {
+          "name": "Beranda",
+          "url": "#"
+        },
+        {
+          "name": "About",
+          "url": "#"
+        },
+        {
+          "name": "Portofolio",
+          "url": "#"
+        },
+        {
+          "name": "Blog",
+          "url": "#"
+        }
+      ]
+    }
+  }
+}
