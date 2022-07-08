@@ -135,7 +135,7 @@ export default function Home({ dataWeb }) {
               <div className="flex items-center">
                 <a
                   href="https://www.youtube.com/channel/UCC-RHf_BJspVPet_1snKzyw"
-                  target="_blank"
+                  target="#"
                   className="w-9 h-9 mr-3 rounded-full flex justify-center items-center text-slate-300 border-slate-300 hover:border-primary hover:bg-primary hover:text-white"
                 >
                   <svg
@@ -151,7 +151,7 @@ export default function Home({ dataWeb }) {
                 </a>
                 <a
                   href="https://www.instagram.com/itsme_dinz"
-                  target="_blank"
+                  target="#"
                   className="w-9 h-9 mr-3 rounded-full flex justify-center items-center text-slate-300 border-slate-300 hover:border-primary hover:bg-primary hover:text-white"
                 >
                   <svg
@@ -167,7 +167,7 @@ export default function Home({ dataWeb }) {
                 </a>
                 <a
                   href="https://github.com/dinnyaziza02"
-                  target="_blank"
+                  target="#"
                   className="w-9 h-9 mr-3 rounded-full flex justify-center items-center text-slate-300 border-slate-300 hover:border-primary hover:bg-primary hover:text-white"
                 >
                   <svg
@@ -464,7 +464,7 @@ export default function Home({ dataWeb }) {
             <div className="flex items-center justify-center mb-5">
               <a
                 href="https://www.youtube.com/channel/UCC-RHf_BJspVPet_1snKzyw"
-                target="_blank"
+                target="#"
                 className="w-9 h-9 mr-3 rounded-full flex justify-center items-center text-slate-300 border-slate-300 hover:border-primary hover:bg-primary hover:text-white"
               >
                 <svg
@@ -480,7 +480,7 @@ export default function Home({ dataWeb }) {
               </a>
               <a
                 href="https://www.instagram.com/itsme_dinz"
-                target="_blank"
+                target="#"
                 className="w-9 h-9 mr-3 rounded-full flex justify-center items-center text-slate-300 border-slate-300 hover:border-primary hover:bg-primary hover:text-white"
               >
                 <svg
@@ -496,7 +496,7 @@ export default function Home({ dataWeb }) {
               </a>
               <a
                 href="https://github.com/dinnyaziza02"
-                target="_blank"
+                target="#"
                 className="w-9 h-9 mr-3 rounded-full flex justify-center items-center text-slate-300 border-slate-300 hover:border-primary hover:bg-primary hover:text-white"
               >
                 <svg
@@ -515,7 +515,7 @@ export default function Home({ dataWeb }) {
               Dibuat oleh
               <a
                 href="https://www.instagram.com/itsme_dinz"
-                target="_blank"
+                target="#"
                 className="font-bold text-primary"
               >
                 Dinny Aziza
@@ -523,7 +523,7 @@ export default function Home({ dataWeb }) {
               menggunakan
               <a
                 href="https://tailwindcss.com"
-                target="_blank"
+                target="#"
                 className="font-bold text-sky-500"
               >
                 Tailwind CSS
