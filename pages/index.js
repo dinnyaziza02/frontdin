@@ -97,7 +97,7 @@ export default function Home({ dataWeb }) {
             </div>
             <div className="w-full self-end px-4 lg:w-1/2">
               <div className="relative mt-10 lg:mt-9 lg:right-0">
-                <Image
+                <img
                   className="relative z-10 mx-auto max-w-full"
                   src="dist/img/dinny.png"
                   alt="dinny"
@@ -135,7 +135,7 @@ export default function Home({ dataWeb }) {
               <div className="flex items-center">
                 <a
                   href="https://www.youtube.com/channel/UCC-RHf_BJspVPet_1snKzyw"
-                  target="#"
+                  target="_blank"
                   className="w-9 h-9 mr-3 rounded-full flex justify-center items-center text-slate-300 border-slate-300 hover:border-primary hover:bg-primary hover:text-white"
                 >
                   <svg
@@ -151,7 +151,7 @@ export default function Home({ dataWeb }) {
                 </a>
                 <a
                   href="https://www.instagram.com/itsme_dinz"
-                  target="#"
+                  target="_blank"
                   className="w-9 h-9 mr-3 rounded-full flex justify-center items-center text-slate-300 border-slate-300 hover:border-primary hover:bg-primary hover:text-white"
                 >
                   <svg
@@ -167,7 +167,7 @@ export default function Home({ dataWeb }) {
                 </a>
                 <a
                   href="https://github.com/dinnyaziza02"
-                  target="#"
+                  target="_blank"
                   className="w-9 h-9 mr-3 rounded-full flex justify-center items-center text-slate-300 border-slate-300 hover:border-primary hover:bg-primary hover:text-white"
                 >
                   <svg
@@ -206,7 +206,7 @@ export default function Home({ dataWeb }) {
           <div className="w-full px-4 flex flex-wrap justify-center xl:10/12 xl:mx-auto">
             <div className="mb-12 p-4 md:w-1/2">
               <div className="rounded-md shadow-md overflow-hidden">
-                <Image
+                <img
                   src="dist/img/porto/1.jpg"
                   alt="Landing Page"
                   width="w-full"
@@ -223,7 +223,7 @@ export default function Home({ dataWeb }) {
             </div>
             <div className="mb-12 p-4 md:w-1/2">
               <div className="rounded-md shadow-md overflow-hidden">
-                <Image
+                <img
                   src="dist/img/porto/2.png"
                   alt="Landing Page"
                   width="w-full"
@@ -240,7 +240,7 @@ export default function Home({ dataWeb }) {
             </div>
             <div className="mb-12 p-4 md:w-1/2">
               <div className="rounded-md shadow-md overflow-hidden">
-                <Image
+                <img
                   src="dist/img/porto/3.png"
                   alt="Landing Page"
                   width="w-full"
@@ -257,7 +257,7 @@ export default function Home({ dataWeb }) {
             </div>
             <div className="mb-12 p-4 md:w-1/2">
               <div className="rounded-md shadow-md overflow-hidden">
-                <Image
+                <img
                   src="dist/img/porto/4.png"
                   alt="Landing Page"
                   width="w-full"
@@ -275,7 +275,6 @@ export default function Home({ dataWeb }) {
           </div>
         </div>
       </section>
-
       <section id="blog" className="pt-36 pb-32 bg-slate-100">
         <div className="container">
           <div className="w-full px-4">
@@ -293,7 +292,7 @@ export default function Home({ dataWeb }) {
           <div className="flex flex-wrap">
             <div className="w-full px-4 lg:w-1/2 xl:w-1/3">
               <div className="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
-                <Image
+                <img
                   src="https://source.unsplash.com/360x200?design"
                   alt="Desain"
                   className="w-full"
@@ -323,7 +322,7 @@ export default function Home({ dataWeb }) {
             </div>
             <div className="w-full px-4 lg:w-1/2 xl:w-1/3">
               <div className="bg-white rounded-xl shadow-lg overflow-hidden mb-10">
-                <Image
+                <img
                   src="https://source.unsplash.com/360x200?design"
                   alt="Desain"
                   className="w-full"
@@ -465,7 +464,7 @@ export default function Home({ dataWeb }) {
             <div className="flex items-center justify-center mb-5">
               <a
                 href="https://www.youtube.com/channel/UCC-RHf_BJspVPet_1snKzyw"
-                target="#"
+                target="_blank"
                 className="w-9 h-9 mr-3 rounded-full flex justify-center items-center text-slate-300 border-slate-300 hover:border-primary hover:bg-primary hover:text-white"
               >
                 <svg
@@ -481,7 +480,7 @@ export default function Home({ dataWeb }) {
               </a>
               <a
                 href="https://www.instagram.com/itsme_dinz"
-                target="#"
+                target="_blank"
                 className="w-9 h-9 mr-3 rounded-full flex justify-center items-center text-slate-300 border-slate-300 hover:border-primary hover:bg-primary hover:text-white"
               >
                 <svg
@@ -497,7 +496,7 @@ export default function Home({ dataWeb }) {
               </a>
               <a
                 href="https://github.com/dinnyaziza02"
-                target="#"
+                target="_blank"
                 className="w-9 h-9 mr-3 rounded-full flex justify-center items-center text-slate-300 border-slate-300 hover:border-primary hover:bg-primary hover:text-white"
               >
                 <svg
@@ -516,7 +515,7 @@ export default function Home({ dataWeb }) {
               Dibuat oleh
               <a
                 href="https://www.instagram.com/itsme_dinz"
-                target="#"
+                target="_blank"
                 className="font-bold text-primary"
               >
                 Dinny Aziza
@@ -524,7 +523,7 @@ export default function Home({ dataWeb }) {
               menggunakan
               <a
                 href="https://tailwindcss.com"
-                target="#"
+                target="_blank"
                 className="font-bold text-sky-500"
               >
                 Tailwind CSS
